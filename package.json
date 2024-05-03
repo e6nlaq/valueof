@@ -1,0 +1,18 @@
+{
+  "name": "valueof-type",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "e6nlaq"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e6nlaq/valueof"
+  },
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "version": "1.0.0"
+}
